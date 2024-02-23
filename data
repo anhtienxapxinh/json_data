@@ -10,9 +10,27 @@
             "clock": [
                 { 
                   "name": "Breguet", 
-                  "img" : "https://www.techoffside.com/wp-content/uploads/2022/04/iPhone-16-pro.jpg"
+                  "img" : "https://product.hstatic.net/1000332793/product/-classique-complications-tourbillon-extra-plat-squelette-5395br-1s-9wu_ee50835292c047f4b164607ddd29325e_master.jpg"
                 }
-            ]
+            ],
+             "clother": [
+                { 
+                  "name": "Suit", 
+                  "img": "https://vestdep.net/upload/vestdep/2023/VEST/372_end_2%20(1).jpg"
+                }
+            ],
+             "shose": [
+                { 
+                  "name": "Gucci", 
+                  "img": "https://d3vfig6e0r0snz.cloudfront.net/rcYjnYuenaTH5vyDF/images/products/16a5f5b23afd641ab271f3358324c548.webp"
+                }
+            ],
+             "ring": [
+                { 
+                  "name": "Pinnacle", 
+                  "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQzW2mGnx3YvtFEy6vXNX3xpX43cko7iPWPlCzt90XpgtzBLCIcWi8GF-l59osHCU6XG7F2tx5ZURL2luHS2wXJnGZL7CbeRsA1BFSrqjcfu4lI4AcwOAqSupc&usqp=CAE"
+                }
+            ],
         }
     ]
 }
