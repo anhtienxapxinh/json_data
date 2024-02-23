@@ -10,7 +10,7 @@
             "clock": [
                 { 
                   "name": "Breguet", 
-                  "img": "https://www.techoffside.com/wp-content/uploads/2022/04/iPhone-16-pro.jpg"
+                  "img" : "https://www.techoffside.com/wp-content/uploads/2022/04/iPhone-16-pro.jpg"
                 }
             ]
         }
