@@ -1,15 +1,17 @@
 {
-  "list goods": [
-
-       {"phone": [
-{"name" : "IPhone"}
-{"img"  : "https://www.techoffside.com/wp-content/uploads/2022/04/iPhone-16-pro.jpg"}
-       ]}
-
-{"clock": [
-{"name" : "Breguet"}
-{"img"  : "https://luxshopping.vn/Uploads/UserFiles/images/dong-ho-breguet.jpg"}
-       ]}
-
-              ]
+    "list goods": [
+        {
+            "phone": [
+                { "name": "IPhone" },
+                { "img": "https://www.techoffside.com/wp-content/uploads/2022/04/iPhone-16-pro.jpg" }
+            ]
+        },
+        {
+            "clock": [
+                { "name": "Breguet" },
+                { "img": "https://luxshopping.vn/Uploads/UserFiles/images/dong-ho-breguet.jpg" }
+            ]
+        }
+    ]
 }
+
