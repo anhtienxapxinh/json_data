@@ -1,34 +1,57 @@
 {
-    "list goods": [
+    "Clothers": [
         {
-            "phone": [
+            "hoodies": [
                 { 
-                  "name": "IPhone", 
-                  "img": "https://www.techoffside.com/wp-content/uploads/2022/04/iPhone-16-pro.jpg"
+                  "name": "Áo hoodie nỉ bông mỏng mặt cười nháy mắt chữ", 
+                  "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnwz898obk6l9d"
+                  "brand": "FrostFleece"
+                  "price": "45"
+                  "rat" : "3"
+                },
+                { 
+                  "name": "Áo Nỉ Trơn Unisex Hoodie Nữ Nam Trơn Form Rộng", 
+                  "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llcwc6bay4zad2"
+                  "brand": "UrbanChill"
+                  "price": "39"
+                  "rat" : "3"
+                },
+                { 
+                  "name": "Áo Hoodie nỉ bông Monster X Street Hà Nội", 
+                  "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lksj4zimwy0r67"
+                 "brand": "ArcticWear"
+                  "price": "50"
+                  "rat" : "3"
+                },
+                { 
+                  "name": "Áo Hoodie Nỉ Nam Nữ Dài Tay Có Mũ Họa Tiết Khủng Long", 
+                  "img": "https://down-vn.img.susercontent.com/file/5010a27811ff342497c59fb92db04d76"
+"brand": "FrostyThreads"
+                  "price": "69"
+                  "rat" : "3"
                 }
             ],
-            "clock": [
+            "jacket": [
                 { 
-                  "name": "Breguet", 
-                  "img" : "https://product.hstatic.net/1000332793/product/-classique-complications-tourbillon-extra-plat-squelette-5395br-1s-9wu_ee50835292c047f4b164607ddd29325e_master.jpg"
-                }
-            ],
-             "clother": [
+                  "name": "Áo Khoác Nhẹ Nỉ Nam Khóa Kéo Tay Dài", 
+                  "img": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-1m8brrnjaeov8a"
+"brand": "GlacierGear"
+                  "price": "30"
+                  "rat" : "3"
+                },
                 { 
-                  "name": "Suit", 
-                  "img": "https://vestdep.net/upload/vestdep/2023/VEST/372_end_2%20(1).jpg"
-                }
-            ],
-             "shose": [
+                  "name": "ÁO KHOÁC DÙ NAM BOMBER UNISEX", 
+                  "img": "https://down-vn.img.susercontent.com/file/1006e8ed5e00dcd83c119d2f24c27554"
+"brand": "Snowfall Styles"
+                  "price": "35"
+                  "rat" : "3"
+                },
                 { 
-                  "name": "Gucci", 
-                  "img": "https://d3vfig6e0r0snz.cloudfront.net/rcYjnYuenaTH5vyDF/images/products/16a5f5b23afd641ab271f3358324c548.webp"
-                }
-            ],
-             "ring": [
-                { 
-                  "name": "Pinnacle", 
-                  "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQzW2mGnx3YvtFEy6vXNX3xpX43cko7iPWPlCzt90XpgtzBLCIcWi8GF-l59osHCU6XG7F2tx5ZURL2luHS2wXJnGZL7CbeRsA1BFSrqjcfu4lI4AcwOAqSupc&usqp=CAE"
+                  "name": "Áo khoác gió - Áo khoác Kaky", 
+                  "img": "https://down-vn.img.susercontent.com/file/5c3331470ffc4c856425abb0f4729fbf"
+"brand": "ArcticAura"
+                  "price": "40"
+                  "rat" : ""
                 }
             ]
         }
