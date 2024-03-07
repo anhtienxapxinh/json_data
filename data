@@ -3,55 +3,55 @@
         {
             "hoodies": [
                 { 
-                  "name": "Áo hoodie nỉ bông mỏng mặt cười nháy mắt chữ", 
-                  "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnwz898obk6l9d"
-                  "brand": "FrostFleece"
-                  "price": "45"
-                  "rat" : "3"
+                    "name": "Áo hoodie nỉ bông mỏng mặt cười nháy mắt chữ", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnwz898obk6l9d",
+                    "brand": "FrostFleece",
+                    "price": "45",
+                    "rat": "3"
                 },
                 { 
-                  "name": "Áo Nỉ Trơn Unisex Hoodie Nữ Nam Trơn Form Rộng", 
-                  "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llcwc6bay4zad2"
-                  "brand": "UrbanChill"
-                  "price": "39"
-                  "rat" : "3"
+                    "name": "Áo Nỉ Trơn Unisex Hoodie Nữ Nam Trơn Form Rộng", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llcwc6bay4zad2",
+                    "brand": "UrbanChill",
+                    "price": "39",
+                    "rat": "3"
                 },
                 { 
-                  "name": "Áo Hoodie nỉ bông Monster X Street Hà Nội", 
-                  "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lksj4zimwy0r67"
-                 "brand": "ArcticWear"
-                  "price": "50"
-                  "rat" : "3"
+                    "name": "Áo Hoodie nỉ bông Monster X Street Hà Nội", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lksj4zimwy0r67",
+                    "brand": "ArcticWear",
+                    "price": "50",
+                    "rat": "3"
                 },
                 { 
-                  "name": "Áo Hoodie Nỉ Nam Nữ Dài Tay Có Mũ Họa Tiết Khủng Long", 
-                  "img": "https://down-vn.img.susercontent.com/file/5010a27811ff342497c59fb92db04d76"
-"brand": "FrostyThreads"
-                  "price": "69"
-                  "rat" : "3"
+                    "name": "Áo Hoodie Nỉ Nam Nữ Dài Tay Có Mũ Họa Tiết Khủng Long", 
+                    "img": "https://down-vn.img.susercontent.com/file/5010a27811ff342497c59fb92db04d76",
+                    "brand": "FrostyThreads",
+                    "price": "69",
+                    "rat": "3"
                 }
             ],
             "jacket": [
                 { 
-                  "name": "Áo Khoác Nhẹ Nỉ Nam Khóa Kéo Tay Dài", 
-                  "img": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-1m8brrnjaeov8a"
-"brand": "GlacierGear"
-                  "price": "30"
-                  "rat" : "3"
+                    "name": "Áo Khoác Nhẹ Nỉ Nam Khóa Kéo Tay Dài", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-1m8brrnjaeov8a",
+                    "brand": "GlacierGear",
+                    "price": "30",
+                    "rat": "3"
                 },
                 { 
-                  "name": "ÁO KHOÁC DÙ NAM BOMBER UNISEX", 
-                  "img": "https://down-vn.img.susercontent.com/file/1006e8ed5e00dcd83c119d2f24c27554"
-"brand": "Snowfall Styles"
-                  "price": "35"
-                  "rat" : "3"
+                    "name": "ÁO KHOÁC DÙ NAM BOMBER UNISEX", 
+                    "img": "https://down-vn.img.susercontent.com/file/1006e8ed5e00dcd83c119d2f24c27554",
+                    "brand": "Snowfall Styles",
+                    "price": "35",
+                    "rat": "3"
                 },
                 { 
-                  "name": "Áo khoác gió - Áo khoác Kaky", 
-                  "img": "https://down-vn.img.susercontent.com/file/5c3331470ffc4c856425abb0f4729fbf"
-"brand": "ArcticAura"
-                  "price": "40"
-                  "rat" : ""
+                    "name": "Áo khoác gió - Áo khoác Kaky", 
+                    "img": "https://down-vn.img.susercontent.com/file/5c3331470ffc4c856425abb0f4729fbf",
+                    "brand": "ArcticAura",
+                    "price": "40",
+                    "rat": "4"
                 }
             ]
         }
