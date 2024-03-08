@@ -7,21 +7,21 @@
                     "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnwz898obk6l9d",
                     "brand": "FrostFleece",
                     "price": "45",
-                    "rat": "3"
+                    "rat": "2"
                 },
                 { 
                     "name": "Áo Nỉ Trơn Unisex Hoodie Nữ Nam Trơn Form Rộng", 
                     "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llcwc6bay4zad2",
                     "brand": "UrbanChill",
                     "price": "39",
-                    "rat": "3"
+                    "rat": "5"
                 },
                 { 
                     "name": "Áo Hoodie nỉ bông Monster X Street Hà Nội", 
                     "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lksj4zimwy0r67",
                     "brand": "ArcticWear",
                     "price": "50",
-                    "rat": "3"
+                    "rat": "4"
                 },
                 { 
                     "name": "Áo Hoodie Nỉ Nam Nữ Dài Tay Có Mũ Họa Tiết Khủng Long", 
@@ -54,6 +54,36 @@
                     "rat": "4"
                 }
             ]
+            "jean": [
+                { 
+                    "name": "Quần Jean Ống Rộng Có Túi Màu Trơn Dày Dặn", 
+                    "img": "https://down-vn.img.susercontent.com/file/sg-11134201-7rbni-lnk7qds5c3owa4",
+                    "brand": "PolarCrest Fashion",
+                    "price": "39",
+                    "rat": "3"
+                },
+                { 
+                    "name": "Quần jean ống loe, Quần Bò Nữ Ông Loe Thêu X", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lr0e2oitttp52c",
+                    "brand": "ArcticAura",
+                    "price": "60",
+                    "rat": "3"
+                },
+                { 
+                    "name": "Quần bò jean nữ ống loe co giãn jeans", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkookvz3ysiy6a",
+                    "brand": "ChillCloth",
+                    "price": "48",
+                    "rat": "3"
+                },
+                { 
+                    "name": "Quần jean suông nữ vải cao cấp phối rách", 
+                    "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lp94sktli89a36",
+                    "brand": "ChillTrend Apparel",
+                    "price": "55",
+                    "rat": "3"
+                }
+            ],
         }
     ]
 }
